@@ -8,11 +8,19 @@
 ### Poner en orden alfabético el archivo periodicos.txt
 Las lineas del archivo deben de venir en order alfabético
 
-### Agregar formateo al archivo foo.txt
-Usando markdown, pon los headers como headers
+### Agregar formateo al archivo sierragorda.txt
+Usando markdown, pon los headers como headers y estilo con bullets
+El texto viene de Wikipedia si quieres ver un ejemplo del formateo.
 
 ### Agregar links en periodicos.txt
 Cada nombre debe de ser un link a su sitio web
+
+### Crea un archivo nuevo periodicos.js
+Usando el sintaxis de Javascript, el archivo debe de tener un arreglo "periodicos" que tiene nombres de periodicos, y un loop/bucle que imprime los nombres a la consola.
+
+Puedes comprobar tu código copiando y pegando en la consola de Chrome o jsbin.com
+
+###
 
 *(Termina preparación para el Sensei. Borrar desde acá hasta arriba)*
 
