@@ -21,7 +21,15 @@ Usando el sintaxis de Javascript, el archivo debe de tener un arreglo "periodico
 
 Puedes comprobar tu código copiando y pegando en la consola de Chrome o jsbin.com
 
-###
+### Renombrar citlaltepetl.txt a citlaltepetl.md
+Para que se vea formateado en el navegador.
+
+### Agregar un archivo nuevo con un poema
+Puedes escribir o encontrar el poema :-D
+Usa al menos un feature de Markdown para formatearlo.
+
+### Convertir periodicos.md en una lista desordenada
+Usa Markdown para agregar viñetas
 
 *(Termina preparación para el Sensei. Borrar desde acá hasta arriba)*
 
