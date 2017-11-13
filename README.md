@@ -1,5 +1,5 @@
 # Preparación para el Sensei
-1. Crear un clone de este repo, con nombre como "exechacker-2017nov-thenest"
+1. Crear un [clone de este repo](https://help.github.com/articles/duplicating-a-repository/), con nombre como "exechacker-2017nov-thenest"
 1. En el nuevo repo, crea los issues de la lista abajo
 1. Borra esta sección de preparación para el Sensei
 
@@ -44,5 +44,7 @@ Ustedes como equipo van a arreglar los archivos en este repo, usando el método 
 ## 2. ¡Trabajo!
 Si terminas con tu primera tarea, márcala resuelta y asígnate una nueva.
 
-## 3. Retrospective
+Tendremos una junta "standup" para ver progreso.
+
+## 3. Sprint Review + Retrospective
 Como equipo, veremos qué logramos durante el sprint.
