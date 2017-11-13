@@ -5,15 +5,15 @@
 
 ## Issues
 
-### Poner en orden alfabético el archivo periodicos.txt
+### Poner en orden alfabético el archivo periodicos.md
 Las lineas del archivo deben de venir en order alfabético
 
-### Agregar formateo al archivo sierragorda.txt
+### Agregar formateo al archivo sierragorda.md
 Usando markdown, pon los headers como headers y estilo con bullets.
 
 El texto viene de Wikipedia si quieres ver un ejemplo del formateo.
 
-### Agregar links en periodicos.txt
+### Agregar links en periodicos.md
 Cada nombre debe de ser un link a su sitio web
 
 ### Crea un archivo nuevo periodicos.js
