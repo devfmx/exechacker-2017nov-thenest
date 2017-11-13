@@ -9,7 +9,8 @@
 Las lineas del archivo deben de venir en order alfabético
 
 ### Agregar formateo al archivo sierragorda.txt
-Usando markdown, pon los headers como headers y estilo con bullets
+Usando markdown, pon los headers como headers y estilo con bullets.
+
 El texto viene de Wikipedia si quieres ver un ejemplo del formateo.
 
 ### Agregar links en periodicos.txt
