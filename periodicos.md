@@ -1,22 +1,21 @@
+[New York Times](https://www.nytimes.com/)
 
-El País
+[La Jornada](http://www.jornada.unam.mx/ultimas)
 
-La Jornada
+[The Times of London](https://www.thetimes.co.uk/)
 
-Milenio
+[Reforma](http://www.reforma.com/)
 
-New York Times
+[Washington Post](https://www.washingtonpost.com/)
 
-Reforma
+[El País](https://elpais.com/elpais/portada_america.html)
 
-San Francisco Chronicle
+[Milenio](http://www.milenio.com/)
 
-Süddeutsche Zeitung
+[San Francisco Chronicle](http://www.sfchronicle.com/)
 
-The Australian
+[Times of India](https://timesofindia.indiatimes.com/)
 
-The Times of London
+[Süddeutsche Zeitung](http://www.sueddeutsche.de/)
 
-Times of India
-
-Washington Post
+[The Australian](http://www.theaustralian.com.au/)
