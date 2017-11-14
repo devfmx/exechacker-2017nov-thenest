@@ -1,11 +1,11 @@
-#Piensa Calor
+# Piensa Calor
 
-##Cuenta hasta tres
+## Cuenta hasta tres
 
-###1
+### 1
 
-###2
+### 2
 
-###3
+### 3
 
 Da click [aquí](https://https://media.giphy.com/media/E8wm3nfbNWBdC/giphy.gif)
