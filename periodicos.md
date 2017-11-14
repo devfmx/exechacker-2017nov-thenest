@@ -1,21 +1,22 @@
-New York Times
-
-La Jornada
-
-The Times of London
-
-Reforma
-
-Washington Post
 
 El País
 
+La Jornada
+
 Milenio
 
-San Francisco Chronicle
+New York Times
 
-Times of India
+Reforma
+
+San Francisco Chronicle
 
 Süddeutsche Zeitung
 
 The Australian
+
+The Times of London
+
+Times of India
+
+Washington Post
